@@ -6,7 +6,7 @@ public class Conveyor : MonoBehaviour
 {
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "ConveyorObject")
+        if (collision.gameObject.tag == "ConveyorBox")
         {
              Destroy(gameObject);
              Debug.Log("Collided");
