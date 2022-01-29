@@ -257,7 +257,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SceneView
+  m_Name: GameView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -1059,7 +1059,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: G:\GitHub\DreamTeam\DreamTeam_Game
+  m_LastProjectPath: C:\Users\rebec\Documents\GitHub\DreamTeam\DreamTeam_Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
