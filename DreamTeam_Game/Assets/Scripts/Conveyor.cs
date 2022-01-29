@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Conveyor : MonoBehaviour
 {
-    void OnCollisionEnter2D(Collision2D collision)
+    void OnTriggerEnter2D(Collider2D col)
     {
-        if (collision.gameObject.tag == "ConveyorBox")
+        if (col.gameObject.tag == "ConveyorBox")
         {
              Destroy(gameObject);
              Debug.Log("Collided");
