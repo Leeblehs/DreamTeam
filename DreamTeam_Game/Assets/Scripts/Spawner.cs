@@ -10,7 +10,6 @@ public class Spawner : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        prefabPool = new GameObject[numberOfPrefabs];
         prefabCreation();
     }
 
