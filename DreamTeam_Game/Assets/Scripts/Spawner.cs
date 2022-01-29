@@ -25,7 +25,6 @@ public class Spawner : MonoBehaviour
             // https://docs.unity3d.com/ScriptReference/Resources.Load.html
 
             // The object I want to instantiate is null error, perhaps I have to load it beforehand?
-            // Ask tutor
 
         }
     }

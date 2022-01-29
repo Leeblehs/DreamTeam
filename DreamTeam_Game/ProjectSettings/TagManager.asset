@@ -4,7 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - ConveyorObject
+  - ConveyorBox
   layers:
   - Default
   - TransparentFX
@@ -41,4 +41,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2615181325
     locked: 0
