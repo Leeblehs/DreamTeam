@@ -130,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4e8b4b7c27915f4aad8c184db5292ee
-      internalID: -1756029647
+      spriteID: 1b9fa739e9385a047b370f6aa42a129f
+      internalID: 463059386
       vertices: []
       indices: 
       edges: []
@@ -151,8 +151,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91cf26da3906a5e49b735ded150dfd34
-      internalID: -2019389846
+      spriteID: 8f42c3f5fe0a26b4c971f08c5cea0238
+      internalID: 622238830
       vertices: []
       indices: 
       edges: []
@@ -172,8 +172,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cddffde6b471ef146b5c5338a5092188
-      internalID: 1123185011
+      spriteID: ff7e5365959da0f45bd68aef98656c5d
+      internalID: -567993950
       vertices: []
       indices: 
       edges: []
@@ -193,8 +193,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41141c1a29ad292459fa41b1f771508b
-      internalID: -321646224
+      spriteID: 1656c9a13ee4ba240a358e11b372199e
+      internalID: -1981958747
       vertices: []
       indices: 
       edges: []
@@ -214,8 +214,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d55052aa5e241e54393e3eaed59896c2
-      internalID: 1443005038
+      spriteID: be9d4bf663ef3054e9cedea94f55c6d3
+      internalID: -425703253
       vertices: []
       indices: 
       edges: []
@@ -235,8 +235,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc04b767b1801d94fbbeabb8b2de497d
-      internalID: -1450963308
+      spriteID: eb8dfca7ed682b14d93096d898fc6768
+      internalID: 1054262472
       vertices: []
       indices: 
       edges: []
@@ -256,8 +256,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aaea2395e31c2f147ba7c05e3fa47f24
-      internalID: -98549012
+      spriteID: d39a25f7c46085b4cb7d6cf1eb515d8d
+      internalID: 1565916727
       vertices: []
       indices: 
       edges: []
@@ -277,8 +277,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e28a9267838d7b4e8ab05873eefdaba
-      internalID: -1991787578
+      spriteID: 53063f4ef68099c4dbb5fb1e248d94c2
+      internalID: 804941565
       vertices: []
       indices: 
       edges: []
@@ -298,8 +298,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f35daea96e95c4143b0bf19317b4ed8e
-      internalID: -1715225973
+      spriteID: 5606796f8164110499d3a0e4f4900cd4
+      internalID: -2033156093
       vertices: []
       indices: 
       edges: []
@@ -319,8 +319,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da02a54a9a7e83845b543386214c4b34
-      internalID: -2021054141
+      spriteID: 0bcecde3676c0a340929d4851b063979
+      internalID: -239282057
       vertices: []
       indices: 
       edges: []
@@ -340,8 +340,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b56071734a4cf104f9f6dc13d2f4e6c9
-      internalID: 1052310733
+      spriteID: d43814e05dd89de46be0f35ca371802d
+      internalID: -1415460152
       vertices: []
       indices: 
       edges: []
@@ -361,8 +361,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 702e9f1ba7acb3544aef9c8ef6bedabc
-      internalID: 1761575322
+      spriteID: d2f04ed6539de414c8a10bdc03290af2
+      internalID: -1014474128
       vertices: []
       indices: 
       edges: []
@@ -382,8 +382,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03d93fe871fa0d7459fdeb1297834ad9
-      internalID: 436208431
+      spriteID: cb7a5a9f675704d4f8e63bdb71b9d923
+      internalID: 2117554574
       vertices: []
       indices: 
       edges: []
@@ -403,8 +403,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 265337b19b1d37d4987a262ddb762366
-      internalID: 801463851
+      spriteID: d0cd6cfb0ae2af64692b5fe09b0e598b
+      internalID: -1249593154
       vertices: []
       indices: 
       edges: []
@@ -424,8 +424,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f4bda04b43d09e43b0cd139e4d9dfa7
-      internalID: 176499229
+      spriteID: 00df5de835c527d4eba071c5af3a3c0e
+      internalID: 2010644239
       vertices: []
       indices: 
       edges: []
@@ -445,8 +445,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97b17c1803f515b4a8853ccad2775c04
-      internalID: -377940110
+      spriteID: 0a611a42e0482c94fb58308af70b7745
+      internalID: 220380458
       vertices: []
       indices: 
       edges: []
@@ -466,8 +466,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53a3c2f303919a6428cdc65944f5c37e
-      internalID: -344221177
+      spriteID: d9cd043fe9d1e964783f4751fa0af2df
+      internalID: -1463494109
       vertices: []
       indices: 
       edges: []
@@ -487,8 +487,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d75d81399f9e8ca4d9c9e95f35b24958
-      internalID: 10777034
+      spriteID: 213a0ed3f6ef5bb4d94a1cac578e33a6
+      internalID: -1895451815
       vertices: []
       indices: 
       edges: []
@@ -508,8 +508,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1668046b717a62843b89159008e51790
-      internalID: -557774195
+      spriteID: ea44b0daaf8cce04fa24d6f772bc29ce
+      internalID: -328357424
       vertices: []
       indices: 
       edges: []
@@ -529,8 +529,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57365344429a61d429773a16f2627d05
-      internalID: 835733704
+      spriteID: 5b4edba69f6a80446b68c2e7d1f9e41b
+      internalID: -1842076005
       vertices: []
       indices: 
       edges: []
@@ -550,8 +550,176 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39384875c17da124f9470589d5ed33e5
-      internalID: -243085459
+      spriteID: d87e8891b614c654fb6ef401e4e7345e
+      internalID: 2087273711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCharacterAnimation-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3a9565fd8d34f488fd0dea5b16e00f
+      internalID: -1658856529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCharacterAnimation-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083b5904cb591a34190e105b598b5b96
+      internalID: 283847916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCharacterAnimation-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00217855be8da1b48a6fa1a27bb34dc2
+      internalID: 205852460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCharacterAnimation-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcc4d24c0bc79e4ea9859ffacc27f03
+      internalID: -233572508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCharacterAnimation-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d86bfcde14eb545a5363d3ba45be7b
+      internalID: 552435861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCharacterAnimation-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5188d8c620d554bbc3c8517a28267c
+      internalID: -717521499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCharacterAnimation-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201158cb02f42034283d8becf641bb39
+      internalID: 407520479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GirlCharacterAnimation-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50cadb0b09838c46923269ac36fe812
+      internalID: 499547472
       vertices: []
       indices: 
       edges: []
@@ -567,27 +735,35 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      GirlCharacterAnimation-Sheet_7: -1991787578
-      GirlCharacterAnimation-Sheet_10: 1052310733
-      GirlCharacterAnimation-Sheet_0: -1756029647
-      GirlCharacterAnimation-Sheet_4: 1443005038
-      GirlCharacterAnimation-Sheet_9: -2021054141
-      GirlCharacterAnimation-Sheet_13: 801463851
-      GirlCharacterAnimation-Sheet_18: -557774195
-      GirlCharacterAnimation-Sheet_2: 1123185011
-      GirlCharacterAnimation-Sheet_5: -1450963308
-      GirlCharacterAnimation-Sheet_11: 1761575322
-      GirlCharacterAnimation-Sheet_15: -377940110
-      GirlCharacterAnimation-Sheet_20: -243085459
-      GirlCharacterAnimation-Sheet_17: 10777034
-      GirlCharacterAnimation-Sheet_6: -98549012
-      GirlCharacterAnimation-Sheet_19: 835733704
-      GirlCharacterAnimation-Sheet_3: -321646224
-      GirlCharacterAnimation-Sheet_12: 436208431
-      GirlCharacterAnimation-Sheet_1: -2019389846
-      GirlCharacterAnimation-Sheet_16: -344221177
-      GirlCharacterAnimation-Sheet_8: -1715225973
-      GirlCharacterAnimation-Sheet_14: 176499229
+      GirlCharacterAnimation-Sheet_7: 804941565
+      GirlCharacterAnimation-Sheet_10: -1415460152
+      GirlCharacterAnimation-Sheet_22: 283847916
+      GirlCharacterAnimation-Sheet_28: 499547472
+      GirlCharacterAnimation-Sheet_0: 463059386
+      GirlCharacterAnimation-Sheet_4: -425703253
+      GirlCharacterAnimation-Sheet_26: -717521499
+      GirlCharacterAnimation-Sheet_9: -239282057
+      GirlCharacterAnimation-Sheet_13: -1249593154
+      GirlCharacterAnimation-Sheet_18: -328357424
+      GirlCharacterAnimation-Sheet_2: -567993950
+      GirlCharacterAnimation-Sheet_5: 1054262472
+      GirlCharacterAnimation-Sheet_11: -1014474128
+      GirlCharacterAnimation-Sheet_21: -1658856529
+      GirlCharacterAnimation-Sheet_27: 407520479
+      GirlCharacterAnimation-Sheet_15: 220380458
+      GirlCharacterAnimation-Sheet_20: 2087273711
+      GirlCharacterAnimation-Sheet_17: -1895451815
+      GirlCharacterAnimation-Sheet_25: 552435861
+      GirlCharacterAnimation-Sheet_6: 1565916727
+      GirlCharacterAnimation-Sheet_19: -1842076005
+      GirlCharacterAnimation-Sheet_3: -1981958747
+      GirlCharacterAnimation-Sheet_12: 2117554574
+      GirlCharacterAnimation-Sheet_1: 622238830
+      GirlCharacterAnimation-Sheet_16: -1463494109
+      GirlCharacterAnimation-Sheet_24: -233572508
+      GirlCharacterAnimation-Sheet_8: -2033156093
+      GirlCharacterAnimation-Sheet_23: 205852460
+      GirlCharacterAnimation-Sheet_14: 2010644239
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
