@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2d9762be5a0c206409a96f083c698518
+guid: dd45ab7a1e97d3a4195c1041b3f93305
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -128,7 +128,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Panda_0
+      name: Pig_0
       rect:
         serializedVersion: 2
         x: 0
@@ -136,20 +136,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2bf001a6227fbc489a26cd91a0319d8
-      internalID: 598785636
+      spriteID: f966db561cb23b74e8c821d67dca83aa
+      internalID: 36001923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda_1
+      name: Pig_1
       rect:
         serializedVersion: 2
         x: 32
@@ -157,20 +157,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18074a35a4f3d99499ca78750822e187
-      internalID: 286656538
+      spriteID: 848cf5da2ce8afa4c94d2ef0e34b1f9c
+      internalID: 1424168664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda_2
+      name: Pig_2
       rect:
         serializedVersion: 2
         x: 64
@@ -178,20 +178,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d52e8464ec51e03459681cc49a23138b
-      internalID: -60044369
+      spriteID: ec95ceb91b62f6141b926fa77c5696a3
+      internalID: -362841627
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda_3
+      name: Pig_3
       rect:
         serializedVersion: 2
         x: 96
@@ -199,20 +199,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dea85424020e3134bbc58543c7b3ee7a
-      internalID: -1507886166
+      spriteID: 2403c1ca19f8ee5448503d41ef3ee754
+      internalID: -392919631
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Panda_4
+      name: Pig_4
       rect:
         serializedVersion: 2
         x: 128
@@ -220,14 +220,14 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 120d6b1d81ae65d4b80b9248b2663004
-      internalID: -164663975
+      spriteID: 92919a45e9472b9489fbea6c6d4a7a8c
+      internalID: -1316293379
       vertices: []
       indices: 
       edges: []
@@ -243,11 +243,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Panda_2: 1263464591
-      Panda_1: -1072231085
-      Panda_3: 1106354401
-      Panda_4: 286656538
-      Panda_0: 598785636
+      Pig_1: 36001923
+      Pig_3: -362841627
+      Pig_2: 1424168664
+      Pig_4: -1334451854
+      Pig_0: -663342147
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
