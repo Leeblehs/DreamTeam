@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: feaa7af8df0c81b4ba9dbcf8d00fff19
+guid: 8ead5e0f6abe3f24187934acb8009d54
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 95
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -116,106 +116,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: title back-Sheet_0
+      name: shadowbutton 1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 828
-        height: 454
+        x: 52
+        y: 104
+        width: 222
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 6, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc5e34c2637c56f46bdfb2fa700ed6c1
-      internalID: -268224573
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: title back-Sheet_1
-      rect:
-        serializedVersion: 2
-        x: 828
-        y: 0
-        width: 828
-        height: 454
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e972d855beaf82b47bdee679e3f8004e
-      internalID: 1715061528
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: title back-Sheet_2
-      rect:
-        serializedVersion: 2
-        x: 1656
-        y: 0
-        width: 828
-        height: 454
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 88a2ca61e4993f943b1ae6d2a0c7cac8
-      internalID: 1617754547
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: title back-Sheet_3
-      rect:
-        serializedVersion: 2
-        x: 2484
-        y: 0
-        width: 828
-        height: 454
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d0efc99638bab1d499d3047197159b70
-      internalID: -980881146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: title back-Sheet_4
-      rect:
-        serializedVersion: 2
-        x: 3312
-        y: 0
-        width: 828
-        height: 454
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c749bed37975634cbad35ee3d005b20
-      internalID: -873707603
+      spriteID: c753f09a70f2f58458806c7275e7200e
+      internalID: -2067579627
       vertices: []
       indices: 
       edges: []
@@ -231,11 +147,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      title back-Sheet_4: -873707603
-      title back-Sheet_0: -268224573
-      title back-Sheet_2: 1617754547
-      title back-Sheet_3: -980881146
-      title back-Sheet_1: 1715061528
+      shadowbutton 1_0: -2067579627
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
