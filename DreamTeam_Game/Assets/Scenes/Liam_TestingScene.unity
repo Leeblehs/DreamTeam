@@ -368,6 +368,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 2.5
+  isTopDown: 0
   rb: {fileID: 550411995}
   animator: {fileID: 550411996}
 --- !u!1 &619394800
@@ -1017,7 +1018,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2570835168851910954, guid: 1f022f705d87dcf4084cb38448f8876f, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2570835168851910966, guid: 1f022f705d87dcf4084cb38448f8876f, type: 3}
       propertyPath: m_Pivot.x
@@ -1135,6 +1136,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1635930713}
+    - target: {fileID: 7624190486958767557, guid: 1f022f705d87dcf4084cb38448f8876f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1f022f705d87dcf4084cb38448f8876f, type: 3}
 --- !u!1001 &4112120633625155501
@@ -1162,7 +1167,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4112120632023074293, guid: a8eda44cccde3984a94150cf5ee6a459, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4112120632023074295, guid: a8eda44cccde3984a94150cf5ee6a459, type: 3}
       propertyPath: m_RootOrder
