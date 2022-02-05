@@ -11,6 +11,7 @@ public class ToggleText : MonoBehaviour
     public void OnOffText()
     {
         if (DisplayedText.enabled == true)
+        if (DisplayedText.enabled == true)
         {
             DisplayedText.enabled = false;
         }
