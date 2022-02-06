@@ -12,7 +12,10 @@ public class ConveyorBox : MonoBehaviour
              Debug.Log("Set active");
 
              col.gameObject.SetActive(false);
+             Debug.Log("The object: " + gameObject.name + " has collided with conveyorbox");
+
              
+            
         }
     }
 }

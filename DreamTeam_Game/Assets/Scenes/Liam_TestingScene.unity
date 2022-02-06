@@ -207,9 +207,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 478160363}
-        m_TargetAssemblyTypeName: ObjectPool, Assembly-CSharp
-        m_MethodName: SpawnPooledObject
+      - m_Target: {fileID: 478160364}
+        m_TargetAssemblyTypeName: GameExample, Assembly-CSharp
+        m_MethodName: BeginRound
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -741,6 +741,7 @@ GameObject:
   m_Component:
   - component: {fileID: 478160362}
   - component: {fileID: 478160363}
+  - component: {fileID: 478160364}
   m_Layer: 0
   m_Name: Object_Pool
   m_TagString: Untagged
@@ -770,7 +771,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 478160360}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 666dfd94d75c8de41bcf893c6c2bd5b4, type: 3}
   m_Name: 
@@ -790,6 +791,32 @@ MonoBehaviour:
   maxGameLevel: 10
   animalPrefab: {fileID: 8835831318152545780, guid: 67c26326cda07124dbb1b8b14dff119b, type: 3}
   animalPosition: {fileID: 478160362}
+--- !u!114 &478160364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 478160360}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5b78081f7e26e48a3108e4da53da30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentGameLevel: 0
+  maxGameLevel: 10
+  animalPrefabs:
+  - {fileID: 7031971018331962071, guid: be349bf1abc801048b34f86fc75e9ec5, type: 3}
+  - {fileID: 4461942279346030793, guid: a611f54429fadc14081ad974de5320f2, type: 3}
+  - {fileID: 5807504839137353185, guid: b6bb9e77b271b6e4eb466aef4f1b5147, type: 3}
+  - {fileID: 268752463282743965, guid: 1dfa094d036921946bdacf125ee07a12, type: 3}
+  - {fileID: 8275980728026434195, guid: 851cf582068e0b5439feedcc9d26d608, type: 3}
+  - {fileID: 4953533990937369448, guid: fb3ccdeaa0883b0489dc24d9a4b8a2b7, type: 3}
+  - {fileID: 5341413186374236943, guid: 6ec57df80b771324692b018742447419, type: 3}
+  - {fileID: 3185047469325753209, guid: 4c7d36d23c14e95478e03063d1566882, type: 3}
+  - {fileID: 5495816428338272381, guid: eb8af8211daa942439b738cfa226a81b, type: 3}
+  animals: []
+  rb: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
