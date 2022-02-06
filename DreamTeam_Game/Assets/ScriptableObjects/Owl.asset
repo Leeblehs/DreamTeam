@@ -13,4 +13,6 @@ MonoBehaviour:
   m_Name: Owl
   m_EditorClassIdentifier: 
   name: Owl
-  prefab: {fileID: 268752463282743965, guid: 1dfa094d036921946bdacf125ee07a12, type: 3}
+  animName: Owl_Idle
+  animationClip: {fileID: 7400000, guid: b6617e4f8edfa1346ae47875ee0372b6, type: 2}
+  artwork: {fileID: -1912503251, guid: 95e285412972f4b4f9d9c8472f996f85, type: 3}

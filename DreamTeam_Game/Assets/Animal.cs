@@ -12,10 +12,9 @@ public class Animal : ScriptableObject
     /* Default Key componenets for a scriptable object */
     public new string name; //Ensure to use new keyword here if you would like to use this property. <name> is default value in Scriptable Object Class, using new lets you override that default value.
     //public string description;
-    public Animator animator;
     public Sprite artwork;
-    
-    
+
+
 
     // public Sprite artwork;
 
@@ -23,7 +22,7 @@ public class Animal : ScriptableObject
     /*
      * Additional value you would like to use for the scriptable object.
      */
-
+  
     //public int legs; //Included just for the example.
 
 }

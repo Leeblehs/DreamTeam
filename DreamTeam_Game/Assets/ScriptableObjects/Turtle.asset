@@ -13,4 +13,6 @@ MonoBehaviour:
   m_Name: Turtle
   m_EditorClassIdentifier: 
   name: Turtle
-  prefab: {fileID: 5495816428338272381, guid: eb8af8211daa942439b738cfa226a81b, type: 3}
+  animName: Turtle_Idle
+  animationClip: {fileID: 7400000, guid: ef3e2144c3f459344947b52f8e92a0c9, type: 2}
+  artwork: {fileID: -621252977, guid: 7fc2763617d0c3348954b50f477b33d0, type: 3}

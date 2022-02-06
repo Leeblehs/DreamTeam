@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: Cat
   m_EditorClassIdentifier: 
   name: Cat
-  animator: {fileID: 0}
+  animName: Cat_Idle
+  animationClip: {fileID: 7400000, guid: 7db38c12521c26a4093d5e9b1a3716be, type: 2}
   artwork: {fileID: -137151406, guid: 00338959cf74cc745af386d7286a2b44, type: 3}

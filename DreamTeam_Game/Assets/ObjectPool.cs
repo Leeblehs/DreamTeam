@@ -8,7 +8,7 @@ public class ObjectPool : MonoBehaviour
     public static ObjectPool instance;
     
     private List<GameObject> pooledObjects = new List<GameObject>();
-    public GameObject[] animalTypes;
+    public Animal[] animalTypes;
     private int amountToPool = 20;
     public int currentGameLevel = 0;
     public int maxGameLevel = 10;
@@ -58,9 +58,9 @@ public class ObjectPool : MonoBehaviour
                  {
                     animal.transform.position = animalPosition.position;
                     animal.SetActive(true); 
-                    int index = Random.Range(0, animalTypes.Length); 
-                    animal = animalTypes[index];
-                    
+                    int index = Random.Range(0, animalTypes.Length);
+                    SetSprite(animal, animalTypes[index]);
+                    SetAnimation(animal,animalTypes[index]);
                      
                     
                     // add the scriptable object
@@ -75,7 +75,17 @@ public class ObjectPool : MonoBehaviour
             // make new function for this?
             currentGameLevel++;
         }
-    }  
+    }
+    public void SetSprite(GameObject animal, Animal animalProperties)
+    {
+        SpriteRenderer spriteRenderer = animal.GetComponent<SpriteRenderer>();
+        spriteRenderer.sprite = animalProperties.artwork;
+    }
+    public void SetAnimation(GameObject animal, Animal animalProperties)
+    {
+        AnimalProperties animalObject = animal.GetComponent<AnimalProperties>();
+        animalObject.PlayAnimation(animalProperties.name);
+    }
 }
 
 

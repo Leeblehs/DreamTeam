@@ -207,9 +207,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 478160364}
-        m_TargetAssemblyTypeName: GameExample, Assembly-CSharp
-        m_MethodName: BeginRound
+      - m_Target: {fileID: 478160363}
+        m_TargetAssemblyTypeName: ObjectPool, Assembly-CSharp
+        m_MethodName: SpawnPooledObject
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -742,6 +742,7 @@ GameObject:
   - component: {fileID: 478160362}
   - component: {fileID: 478160363}
   - component: {fileID: 478160364}
+  - component: {fileID: 478160365}
   m_Layer: 0
   m_Name: Object_Pool
   m_TagString: Untagged
@@ -771,16 +772,16 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 478160360}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 666dfd94d75c8de41bcf893c6c2bd5b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   animalTypes:
-  - {fileID: 7031971018331962071, guid: be349bf1abc801048b34f86fc75e9ec5, type: 3}
-  - {fileID: 5807504839137353185, guid: b6bb9e77b271b6e4eb466aef4f1b5147, type: 3}
-  - {fileID: 4461942279346030793, guid: a611f54429fadc14081ad974de5320f2, type: 3}
-  - {fileID: 268752463282743965, guid: 1dfa094d036921946bdacf125ee07a12, type: 3}
+  - {fileID: 11400000, guid: 07c04daac9e52a8409ab15a86cca3f95, type: 2}
+  - {fileID: 11400000, guid: 48feaa03d6ed2414791b659d481bbe63, type: 2}
+  - {fileID: 11400000, guid: b0b34e36f0b008246bb8f36e0024adb2, type: 2}
+  - {fileID: 11400000, guid: d4c759b5e5a3c10449d19ed0b92eb26c, type: 2}
   - {fileID: 8275980728026434195, guid: 851cf582068e0b5439feedcc9d26d608, type: 3}
   - {fileID: 4953533990937369448, guid: fb3ccdeaa0883b0489dc24d9a4b8a2b7, type: 3}
   - {fileID: 5341413186374236943, guid: 6ec57df80b771324692b018742447419, type: 3}
@@ -817,6 +818,21 @@ MonoBehaviour:
   - {fileID: 5495816428338272381, guid: eb8af8211daa942439b738cfa226a81b, type: 3}
   animals: []
   rb: {fileID: 0}
+--- !u!111 &478160365
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 478160360}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 0}
+  m_Animations: []
+  m_WrapMode: 0
+  m_PlayAutomatically: 0
+  m_AnimatePhysics: 0
+  m_CullingType: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0

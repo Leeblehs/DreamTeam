@@ -13,4 +13,6 @@ MonoBehaviour:
   m_Name: Penguin
   m_EditorClassIdentifier: 
   name: Penguin
-  prefab: {fileID: 4953533990937369448, guid: fb3ccdeaa0883b0489dc24d9a4b8a2b7, type: 3}
+  animName: PenguinFlap
+  animationClip: {fileID: 7400000, guid: defb316757c2cb54086f1127e409fedc, type: 2}
+  artwork: {fileID: -250253323, guid: ddff642fbd8d6b8408d5df0528cbed6a, type: 3}
