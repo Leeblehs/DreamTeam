@@ -362,9 +362,10 @@ MonoBehaviour:
   dialogue:
     name: Bruce
     sentences:
-    - Welcome to Can You Win It?
+    - Welcome to Golden Egg!
     - The only gameshow in the world still without a winner!
-    - Today's themes are animals and memory. Let's meet our contestants...
+    - Today's themes are animals and memory. Let's meet our contestants...can they
+      claim the Golden Egg today? Lets find out!
     - Let the games commence!
 --- !u!114 &468945557
 MonoBehaviour:
