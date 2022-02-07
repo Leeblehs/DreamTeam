@@ -1,0 +1,2774 @@
+fileFormatVersion: 2
+guid: efae81bfaac9dc544b48b2b59a658b15
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9271dbe3724aa4482ea3780296558e
+      internalID: -750104597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 480
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff348b0472c514043b4603cd2c75f0b9
+      internalID: -1673569079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 480
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6891edf3125fa346a385c3547807614
+      internalID: 1478850383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 480
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3b88efce4372144954240b9731cce5
+      internalID: -2088265943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 480
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7179219ba72e30469ee42052210e304
+      internalID: 336406580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 480
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95f9c67ad0a2c74f995333a2c1567cf
+      internalID: -435723388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 480
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e46272e29c6a645a90ee0ab4004d20
+      internalID: 316717512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 480
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe833c8b30d259745b45dcca35756bc6
+      internalID: -1105431230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c9b8a5e3918b94f8f948848129090b
+      internalID: 16773928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 480
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f19b692e28ab3498649e9ac73ad740
+      internalID: 1782998134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_10
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 480
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb0a97c7feca7d439e29f25369e3c47
+      internalID: -1440349125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d45c56783ecc3544af0c815b41fd27e
+      internalID: 1672525059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 432
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4023936ef2bd899499e7e93af7e95bdf
+      internalID: 985933041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 432
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878450768aae9b34b89b47f959151edb
+      internalID: 545905194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_14
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 432
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7aaa6aa7da6414ca01664c33bfb330
+      internalID: -1696219839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 432
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18a37de6c3518646bededf5e1c6891e
+      internalID: -57558124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 432
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefb523e447cedc48956d088a45e6269
+      internalID: 152116788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 432
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba22240fc6806bf41a4b579fe1845b9c
+      internalID: 263081616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_18
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 432
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29df1d51aa089d4a82bbcb8aea29297
+      internalID: 1382085498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c86f8060c4612a4eb62d834bda84752
+      internalID: 1790165797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_20
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 432
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5883965466b1704e92a3d19d08ad534
+      internalID: -472186279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_21
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 432
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7227fb110a05d5b4e9c57e46a8b45454
+      internalID: -758202105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6b63a8093aa1c4b98d853c148e111d
+      internalID: -173680234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 384
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6a4a49bce7c684b93b8a72602f91f4
+      internalID: 178477338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 384
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331f2a2fa229a074b912eddffdb3d126
+      internalID: -1270005819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 384
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d53dbde877141a468d6fb38a27e4098
+      internalID: 596653224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 384
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbd31222302f4b478d0b01b29808fac
+      internalID: 2014689791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_27
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 384
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a13c1887a45a5f49a7663e222d591c0
+      internalID: 2077702066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 384
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548867120a5aa044eb003b17f9941ea3
+      internalID: 2020598248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_29
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 384
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f75341da7b31d942b22c84eea184055
+      internalID: -1957712118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_30
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b07f8f35aefdf34cb4103f91a0a0d02
+      internalID: -573554522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_31
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 384
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8481108120af1d4ebbccec5ab5748ea
+      internalID: -238155186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_32
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 384
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d22d1f4337502b47a40e9ceb499e371
+      internalID: 336746781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24508d4387984d4396e981fcc5fbb0f
+      internalID: 138990826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 336
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0de17173a084d34090ab72fcfb078c9
+      internalID: -78708763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 336
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c575b55d06e337c46aec9bc68944e945
+      internalID: -535983062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 336
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b1cec9408148c4c8c845838ac60afd
+      internalID: -257249991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 336
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770ae162477165947bfcfad546c52358
+      internalID: 750035088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_38
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 336
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a453e4664377b4541b7978c77d382713
+      internalID: 1849269460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 336
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48ad17b893480646a38c66a8507a12a
+      internalID: 1558295431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_40
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 336
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c292b8342e92f8743a4ec17366287d14
+      internalID: 1605983559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e2b2d195698454fb6e41ea20224d89
+      internalID: 491514232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_42
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 336
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d196050cc3bdb4a8f3b07e7d4c5c67
+      internalID: 227761445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_43
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 336
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0500e4f2b22a754895b7b21e6d30fdf
+      internalID: 2137497103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c5fcdf413b59c40ba6e6b7bf924c53
+      internalID: -1154748304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_45
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 288
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420722bfe4f29b040b4405da5d6c36f2
+      internalID: 2032863023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_46
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 288
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1fdbce8f5a5894899d206932c70c2b
+      internalID: -206983662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 288
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bf0e9fee815fa4983abcb6607ca03b
+      internalID: 1187031856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 288
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f82e12dadba7ad4f89106209f651166
+      internalID: -824154827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_49
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 288
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f254c555cc4e0d439d7e58bb972573a
+      internalID: 1411503124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_50
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 288
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50dbbe0fcc2b524f850564aa6e38d5f
+      internalID: -1520377897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_51
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 288
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71957cb9ad4bab747abbe58537f03282
+      internalID: 2045936033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41be1b4a817b19147ae33b176947b68d
+      internalID: 1813865561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_53
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 288
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a741ec28600714faf823609e93062e
+      internalID: 531314060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_54
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 288
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da8da6adf44bbb488cd21917a3b26b0
+      internalID: 1185640338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaf89be61e14974d990a9f362112011
+      internalID: -506105346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 240
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ea2c0fda542e9499677b695956e69f
+      internalID: 2145710671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_57
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 240
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85167bae636884c4baa0b6769cc4955b
+      internalID: -1153999376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_58
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 240
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c317ea843edb44e438184f03093053d5
+      internalID: -969363920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 240
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47b9edd7a13e59479e26dbd493be71f
+      internalID: -410888426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_60
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 240
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0458872ab5cea5a418b9c4b872d2884f
+      internalID: -2101969183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_61
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 240
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fbb8e9d4c8d27428367b31938072ba
+      internalID: 2008035645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_62
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 240
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dc1301837d97b48b00e89312d51c69
+      internalID: -592171550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_63
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c937b940b2b51847aba81e2148b8a06
+      internalID: -1723328557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_64
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 240
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701fc8e8b10a7d24691aa445bd5b11de
+      internalID: -277990523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_65
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 240
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f793c5b201e2ab49a5f832086ff7958
+      internalID: 533830729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b96358634aead4e840e99275136a35
+      internalID: -1105152858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_67
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c467867c9854e4641a364da1e5547392
+      internalID: -457104658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_68
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72bb85838de29646aae57e5e3d03cc3
+      internalID: -188067617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_69
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8cbf2c14e222540af57c51bcd48100
+      internalID: 149924591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_70
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df0b77750911da488913d6a9d99f425
+      internalID: 1513268675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_71
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eafba870c2e5c4a8d775db08d4c0f5
+      internalID: -588303241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_72
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a6545072d50a64a836cbfb14841e27
+      internalID: 92622384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_73
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544d298549d59da4b92cb74b3c3b3df1
+      internalID: -1071079743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_74
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70c97653ed825249bda0d3eaefb3f07
+      internalID: 89412517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_75
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829e4a3a7fc854c49b32e7e7f1c9fed5
+      internalID: -1256272291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_76
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 192
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61dea5a6c4c86b409d26a0a0703930d
+      internalID: 693114801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bab7fc1fe38aa448f45f3e060911bd
+      internalID: -602037359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_78
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 144
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77521f09d567c9a4c88e11a320025c22
+      internalID: -1329828568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_79
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81141c5fb6e3be140b836ccaab7edccf
+      internalID: 503609697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_80
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 144
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3ab656b4a2e844883ca52dc594cae9
+      internalID: -1420062991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_81
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 144
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d202d37908501d544b84914f9a33a8d9
+      internalID: 331300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_82
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 144
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df25329180c5984c91280154a0e9b0c
+      internalID: -114374233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_83
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 144
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae3ec140da457f4d83e735bc5683cd6
+      internalID: 1962697332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_84
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 144
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7622cc1bc214864a89bf26eaf70b5d8
+      internalID: 1927536615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_85
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ef9464c631dca45bd235e8ee51faed
+      internalID: 2106760438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_86
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 144
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc3e8cb33886a8498edc8c5c90abefd
+      internalID: -1200835494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_87
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 144
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6479d33ef393d034d8f46bb39f5a3fa0
+      internalID: 868076233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d721d2ae3edad4bae9fd678ddbbb96
+      internalID: 1477715745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_89
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 96
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3feb1749fd294546b9cdae5f9c5c815
+      internalID: 1829242234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_90
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 96
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a633066dfd7ea4297e08efe30169b8
+      internalID: -623161879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_91
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 96
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a121e44bd6de6543973112cdbc80e73
+      internalID: 1026144475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_92
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2028ee7f441dfe4893ef1910fccf929
+      internalID: -195951885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_93
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 96
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf375eb4d56ce724e91793b791ebf3ae
+      internalID: -1290836994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_94
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 96
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bacc275748b0d84386ccfb42200aaa7
+      internalID: 2022330311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_95
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 96
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dc5716431099b4cbb007db8b9345b4
+      internalID: -38341714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_96
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8aebf01d8538294089f555e2b919806
+      internalID: 1952833601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_97
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 96
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b18eee163b5bff45b25a83630dcf212
+      internalID: -985176167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_98
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 96
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d61d901544180418947ef3d6dd26c5
+      internalID: 1183422343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd24706cb8142841a538d0d9976fd31
+      internalID: 360330161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_100
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 48
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157e59df1a757684ca2d9843676f9a95
+      internalID: -534686634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_101
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 48
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330d08da70570c2468a4221a9e0698d4
+      internalID: -2070751817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_102
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 48
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225639051da1b8446aafa8b19a5808dd
+      internalID: 2144738972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_103
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27855a2061f75784991a2809de77f1ff
+      internalID: -1791200676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_104
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 48
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e91ea279a1407b4a87993fa08dfaf35
+      internalID: 1228435424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_105
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 48
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c089ac5a286734d9b8d03c451a0367
+      internalID: -650742692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_106
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 48
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149d590fdd1839b4abb79f94ce55f1ea
+      internalID: 2030818958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_107
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1495b1023e5504c8b1dd48607d736e
+      internalID: -225046937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_108
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 48
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dcc79ac85b1d14cbb8cf9e3188099f
+      internalID: -1943246415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_109
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 48
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9415e0656e7fa8d49b966035181b84ea
+      internalID: 547564727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff796cdf3737b74a85e4f0818de3250
+      internalID: 1268166042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_111
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c5539e247d34a42a480525df5b8a1f
+      internalID: 1925514308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_112
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060413f40549df44da5b48383654411e
+      internalID: -109251494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_113
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e4bb1754017c745af4a1971d9f0f0b
+      internalID: -2074918261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_114
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eb6749b5109de46abc1c20887db7bc
+      internalID: -1859932904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_115
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c530b6b8219c1ec45882cf467277f854
+      internalID: 1835614048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_116
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5513e1f786a3e4479e404fa17866f20
+      internalID: -1381295726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_117
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801cd4c513b1a5c4c967c8f3bfe67283
+      internalID: -321635906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_118
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e462aab86d4d0414a85da84e4755e9f1
+      internalID: 349307478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backgroundtitle-Sheet.png_119
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffec9d646d3bdcc44a18b12e0e4ff331
+      internalID: -1028020255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Backgroundtitle-Sheet.png_38: 1849269460
+      Backgroundtitle-Sheet.png_84: 1927536615
+      Backgroundtitle-Sheet.png_54: 1185640338
+      Backgroundtitle-Sheet.png_12: 985933041
+      Backgroundtitle-Sheet.png_23: 178477338
+      Backgroundtitle-Sheet.png_90: -623161879
+      Backgroundtitle-Sheet.png_62: -592171550
+      Backgroundtitle-Sheet.png_58: -969363920
+      Backgroundtitle-Sheet.png_7: -1105431230
+      Backgroundtitle-Sheet.png_89: 1829242234
+      Backgroundtitle-Sheet.png_5: -435723388
+      Backgroundtitle-Sheet.png_63: -1723328557
+      Backgroundtitle-Sheet.png_50: -1520377897
+      Backgroundtitle-Sheet.png_59: -410888426
+      Backgroundtitle-Sheet.png_69: 149924591
+      Backgroundtitle-Sheet.png_81: 331300516
+      Backgroundtitle-Sheet.png_80: -1420062991
+      Backgroundtitle-Sheet.png_8: 16773928
+      Backgroundtitle-Sheet.png_61: 2008035645
+      Backgroundtitle-Sheet.png_79: 503609697
+      Backgroundtitle-Sheet.png_28: 2020598248
+      Backgroundtitle-Sheet.png_114: -1859932904
+      Backgroundtitle-Sheet.png_36: -257249991
+      Backgroundtitle-Sheet.png_65: 533830729
+      Backgroundtitle-Sheet.png_20: -472186279
+      Backgroundtitle-Sheet.png_75: -1256272291
+      Backgroundtitle-Sheet.png_91: 1026144475
+      Backgroundtitle-Sheet.png_111: 1925514308
+      Backgroundtitle-Sheet.png_49: 1411503124
+      Backgroundtitle-Sheet.png_104: 1228435424
+      Backgroundtitle-Sheet.png_3: -2088265943
+      Backgroundtitle-Sheet.png_119: -1028020255
+      Backgroundtitle-Sheet.png_2: 1478850383
+      Backgroundtitle-Sheet.png_18: 1382085498
+      Backgroundtitle-Sheet.png_31: -238155186
+      Backgroundtitle-Sheet.png_116: -1381295726
+      Backgroundtitle-Sheet.png_32: 336746781
+      Backgroundtitle-Sheet.png_55: -506105346
+      Backgroundtitle-Sheet.png_60: -2101969183
+      Backgroundtitle-Sheet.png_95: -38341714
+      Backgroundtitle-Sheet.png_105: -650742692
+      Backgroundtitle-Sheet.png_4: 336406580
+      Backgroundtitle-Sheet.png_15: -57558124
+      Backgroundtitle-Sheet.png_17: 263081616
+      Backgroundtitle-Sheet.png_64: -277990523
+      Backgroundtitle-Sheet.png_30: -573554522
+      Backgroundtitle-Sheet.png_48: -824154827
+      Backgroundtitle-Sheet.png_6: 316717512
+      Backgroundtitle-Sheet.png_72: 92622384
+      Backgroundtitle-Sheet.png_27: 2077702066
+      Backgroundtitle-Sheet.png_101: -2070751817
+      Backgroundtitle-Sheet.png_25: 596653224
+      Backgroundtitle-Sheet.png_47: 1187031856
+      Backgroundtitle-Sheet.png_68: -188067617
+      Backgroundtitle-Sheet.png_107: -225046937
+      Backgroundtitle-Sheet.png_19: 1790165797
+      Backgroundtitle-Sheet.png_108: -1943246415
+      Backgroundtitle-Sheet.png_78: -1329828568
+      Backgroundtitle-Sheet.png_110: 1268166042
+      Backgroundtitle-Sheet.png_117: -321635906
+      Backgroundtitle-Sheet.png_118: 349307478
+      Backgroundtitle-Sheet.png_0: -750104597
+      Backgroundtitle-Sheet.png_83: 1962697332
+      Backgroundtitle-Sheet.png_96: 1952833601
+      Backgroundtitle-Sheet.png_22: -173680234
+      Backgroundtitle-Sheet.png_85: 2106760438
+      Backgroundtitle-Sheet.png_39: 1558295431
+      Backgroundtitle-Sheet.png_41: 491514232
+      Backgroundtitle-Sheet.png_1: -1673569079
+      Backgroundtitle-Sheet.png_26: 2014689791
+      Backgroundtitle-Sheet.png_10: -1440349125
+      Backgroundtitle-Sheet.png_35: -535983062
+      Backgroundtitle-Sheet.png_11: 1672525059
+      Backgroundtitle-Sheet.png_73: -1071079743
+      Backgroundtitle-Sheet.png_97: -985176167
+      Backgroundtitle-Sheet.png_87: 868076233
+      Backgroundtitle-Sheet.png_45: 2032863023
+      Backgroundtitle-Sheet.png_52: 1813865561
+      Backgroundtitle-Sheet.png_56: 2145710671
+      Backgroundtitle-Sheet.png_102: 2144738972
+      Backgroundtitle-Sheet.png_44: -1154748304
+      Backgroundtitle-Sheet.png_16: 152116788
+      Backgroundtitle-Sheet.png_37: 750035088
+      Backgroundtitle-Sheet.png_86: -1200835494
+      Backgroundtitle-Sheet.png_24: -1270005819
+      Backgroundtitle-Sheet.png_46: -206983662
+      Backgroundtitle-Sheet.png_98: 1183422343
+      Backgroundtitle-Sheet.png_34: -78708763
+      Backgroundtitle-Sheet.png_77: -602037359
+      Backgroundtitle-Sheet.png_94: 2022330311
+      Backgroundtitle-Sheet.png_82: -114374233
+      Backgroundtitle-Sheet.png_99: 360330161
+      Backgroundtitle-Sheet.png_42: 227761445
+      Backgroundtitle-Sheet.png_112: -109251494
+      Backgroundtitle-Sheet.png_21: -758202105
+      Backgroundtitle-Sheet.png_67: -457104658
+      Backgroundtitle-Sheet.png_43: 2137497103
+      Backgroundtitle-Sheet.png_106: 2030818958
+      Backgroundtitle-Sheet.png_113: -2074918261
+      Backgroundtitle-Sheet.png_9: 1782998134
+      Backgroundtitle-Sheet.png_100: -534686634
+      Backgroundtitle-Sheet.png_109: 547564727
+      Backgroundtitle-Sheet.png_76: 693114801
+      Backgroundtitle-Sheet.png_53: 531314060
+      Backgroundtitle-Sheet.png_92: -195951885
+      Backgroundtitle-Sheet.png_57: -1153999376
+      Backgroundtitle-Sheet.png_74: 89412517
+      Backgroundtitle-Sheet.png_71: -588303241
+      Backgroundtitle-Sheet.png_70: 1513268675
+      Backgroundtitle-Sheet.png_33: 138990826
+      Backgroundtitle-Sheet.png_51: 2045936033
+      Backgroundtitle-Sheet.png_14: -1696219839
+      Backgroundtitle-Sheet.png_29: -1957712118
+      Backgroundtitle-Sheet.png_66: -1105152858
+      Backgroundtitle-Sheet.png_93: -1290836994
+      Backgroundtitle-Sheet.png_40: 1605983559
+      Backgroundtitle-Sheet.png_88: 1477715745
+      Backgroundtitle-Sheet.png_13: 545905194
+      Backgroundtitle-Sheet.png_103: -1791200676
+      Backgroundtitle-Sheet.png_115: 1835614048
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
